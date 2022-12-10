@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "9TSU3uG9lH16+8F2FcG25BohQrwKHfuV0+wEJqPY7Q755DCboZT4uHUV0S2AIeRk0mJ5Nerd0lFeyKbtiXdZPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\finnd\\source\\repos\\WebScraperYoutube\\WebScraperYoutube.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\finnd\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\finnd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\finnd\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512",
+    "C:\\Users\\finnd\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\finnd\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\finnd\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\finnd\\.nuget\\packages\\selenium.webdriver\\4.6.0\\selenium.webdriver.4.6.0.nupkg.sha512",
+    "C:\\Users\\finnd\\.nuget\\packages\\selenium.webdriver.chromedriver\\107.0.5304.6200\\selenium.webdriver.chromedriver.107.0.5304.6200.nupkg.sha512"
+  ],
+  "logs": []
+}
